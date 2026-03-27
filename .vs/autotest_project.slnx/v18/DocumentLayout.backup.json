@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maiva\\Documents\\assurance_sofware\\pratice\\autotest\\autotest_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88461538-BF26-C1B7-DE54-C0057EDA5B13}|autotest_project\\autotest_project.csproj|c:\\users\\maiva\\documents\\assurance_sofware\\pratice\\autotest\\autotest_project\\autotest_project\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88461538-BF26-C1B7-DE54-C0057EDA5B13}|autotest_project\\autotest_project.csproj|solutionrelative:autotest_project\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88461538-BF26-C1B7-DE54-C0057EDA5B13}|autotest_project\\autotest_project.csproj|c:\\users\\maiva\\documents\\assurance_sofware\\pratice\\autotest\\autotest_project\\autotest_project\\pages\\transferpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88461538-BF26-C1B7-DE54-C0057EDA5B13}|autotest_project\\autotest_project.csproj|solutionrelative:autotest_project\\pages\\transferpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88461538-BF26-C1B7-DE54-C0057EDA5B13}|autotest_project\\autotest_project.csproj|c:\\users\\maiva\\documents\\assurance_sofware\\pratice\\autotest\\autotest_project\\autotest_project\\pages\\billpaypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88461538-BF26-C1B7-DE54-C0057EDA5B13}|autotest_project\\autotest_project.csproj|solutionrelative:autotest_project\\pages\\billpaypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88461538-BF26-C1B7-DE54-C0057EDA5B13}|autotest_project\\autotest_project.csproj|c:\\users\\maiva\\documents\\assurance_sofware\\pratice\\autotest\\autotest_project\\autotest_project\\pages\\openaccountpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88461538-BF26-C1B7-DE54-C0057EDA5B13}|autotest_project\\autotest_project.csproj|solutionrelative:autotest_project\\pages\\openaccountpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88461538-BF26-C1B7-DE54-C0057EDA5B13}|autotest_project\\autotest_project.csproj|c:\\users\\maiva\\documents\\assurance_sofware\\pratice\\autotest\\autotest_project\\autotest_project\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88461538-BF26-C1B7-DE54-C0057EDA5B13}|autotest_project\\autotest_project.csproj|solutionrelative:autotest_project\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\maiva\\Documents\\assurance_sofware\\pratice\\autotest\\autotest_project\\autotest_project\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "autotest_project\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\maiva\\Documents\\assurance_sofware\\pratice\\autotest\\autotest_project\\autotest_project\\UnitTest1.cs",
+              "RelativeToolTip": "autotest_project\\UnitTest1.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAADwv0MAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T01:53:28.085Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BillPayPage.cs",
+              "DocumentMoniker": "C:\\Users\\maiva\\Documents\\assurance_sofware\\pratice\\autotest\\autotest_project\\autotest_project\\Pages\\BillPayPage.cs",
+              "RelativeDocumentMoniker": "autotest_project\\Pages\\BillPayPage.cs",
+              "ToolTip": "C:\\Users\\maiva\\Documents\\assurance_sofware\\pratice\\autotest\\autotest_project\\autotest_project\\Pages\\BillPayPage.cs",
+              "RelativeToolTip": "autotest_project\\Pages\\BillPayPage.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T02:43:36.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransferPage.cs",
+              "DocumentMoniker": "C:\\Users\\maiva\\Documents\\assurance_sofware\\pratice\\autotest\\autotest_project\\autotest_project\\Pages\\TransferPage.cs",
+              "RelativeDocumentMoniker": "autotest_project\\Pages\\TransferPage.cs",
+              "ToolTip": "C:\\Users\\maiva\\Documents\\assurance_sofware\\pratice\\autotest\\autotest_project\\autotest_project\\Pages\\TransferPage.cs",
+              "RelativeToolTip": "autotest_project\\Pages\\TransferPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T02:42:52.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OpenAccountPage.cs",
+              "DocumentMoniker": "C:\\Users\\maiva\\Documents\\assurance_sofware\\pratice\\autotest\\autotest_project\\autotest_project\\Pages\\OpenAccountPage.cs",
+              "RelativeDocumentMoniker": "autotest_project\\Pages\\OpenAccountPage.cs",
+              "ToolTip": "C:\\Users\\maiva\\Documents\\assurance_sofware\\pratice\\autotest\\autotest_project\\autotest_project\\Pages\\OpenAccountPage.cs",
+              "RelativeToolTip": "autotest_project\\Pages\\OpenAccountPage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T02:42:40.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "C:\\Users\\maiva\\Documents\\assurance_sofware\\pratice\\autotest\\autotest_project\\autotest_project\\Pages\\BasePage.cs",
+              "RelativeDocumentMoniker": "autotest_project\\Pages\\BasePage.cs",
+              "ToolTip": "C:\\Users\\maiva\\Documents\\assurance_sofware\\pratice\\autotest\\autotest_project\\autotest_project\\Pages\\BasePage.cs",
+              "RelativeToolTip": "autotest_project\\Pages\\BasePage.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T02:41:37.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
